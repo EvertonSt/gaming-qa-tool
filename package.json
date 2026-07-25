@@ -1,0 +1,23 @@
+{
+  "name": "gaming-qa-tool",
+  "version": "1.0.0",
+  "description": "Game QA testing tool - compatibility, performance & UX validation for PC/console/mobile games",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js",
+    "demo": "node examples/demo.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "qa",
+    "game-testing",
+    "gaming",
+    "compatibility",
+    "performance",
+    "ux",
+    "automation"
+  ],
+  "author": "Everton St",
+  "license": "ISC",
+  "type": "commonjs"
+}
