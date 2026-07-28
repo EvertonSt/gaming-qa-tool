@@ -1,5 +1,9 @@
 # 🎮 Gaming QA Tool
 
+![CI](https://github.com/EvertonSt/gaming-qa-tool/actions/workflows/test.yml/badge.svg)
+![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue)
+
 A comprehensive QA testing toolkit for games — validates **compatibility**, **performance**, and **UX** across PC/console/mobile builds. Built for QA testers who know the gaming market.
 
 ## ✨ Features
